@@ -1,6 +1,6 @@
 - 👋 Hello! Welcome to my GitHub profile!
 - 🌱 In this profile, I have focused on C#, .NET & Entity Framework where appropriate.
-- 💡 There are three repo's that would be relevant to check if you are a prospective employer:
+- 💡 There are three repo's that would be relevant to check if you are visiting from Delta:
 
 1) SimpleCRUD-BookList
  - This is a simple CRUD application utilising C#, .NET & Entity Framework built using a tutorial. It was created to demonstrate my ability to put together a simple .NET & Entity Framework application. This was my first time using ASP.NET & Entity Framework.
